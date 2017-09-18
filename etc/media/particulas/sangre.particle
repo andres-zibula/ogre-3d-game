@@ -1,0 +1,41 @@
+particle_system sangre
+{
+  material        	sangre
+  particle_width  	1
+  particle_height 	1
+  cull_each       	false
+  quota           	150
+  billboard_type  	point
+    
+  emitter Point
+  {
+		angle               		90
+    emission_rate       		50
+    time_to_live        		1
+    direction           		0 1 0
+    velocity_min        		50
+    velocity_max        		75
+    position                0 0 0  	
+	duration	0.3
+	duration_min	0.3
+	duration_max	0.3
+	repeat_delay	0.1
+	repeat_delay_min	0.1
+	repeat_delay_max	0.1
+	}
+
+  affector LinearForce
+  {
+    force_vector 0 -700 0
+    force_application add
+  }
+
+  affector Rotator
+  {
+    rotation_range_start  		0
+   	rotation_range_end   	 	360
+  	rotation_speed_range_start  	-60
+   	rotation_speed_range_end    	200
+ 	}
+
+}

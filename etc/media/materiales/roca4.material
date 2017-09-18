@@ -1,0 +1,20 @@
+material "materialRoca4"
+{
+	technique materialRoca4_technique
+	{
+		pass materialRoca4_standard
+		{
+			ambient 1 1 1 1
+			diffuse 1 1 1 1
+			specular 0 0 0 0 25.5
+			emissive 0 0 0 1
+
+			texture_unit materialRoca4_Diffuse#0
+			{
+				texture diffuseRock_04.tga
+				tex_coord_set 0
+				colour_op modulate
+			}
+		}
+	}
+}

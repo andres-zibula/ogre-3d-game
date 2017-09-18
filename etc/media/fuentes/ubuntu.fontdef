@@ -1,0 +1,7 @@
+ubuntu
+{
+	type truetype
+	source ubuntu.ttf
+	size 25
+	resolution 96
+}

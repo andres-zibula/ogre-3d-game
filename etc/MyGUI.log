@@ -1,0 +1,104 @@
+05:31:02  |  Platform  |  Info  |  * Initialise: RenderManager  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreRenderManager.cpp  |  43
+05:31:02  |  Platform  |  Info  |  RenderManager successfully initialized  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreRenderManager.cpp  |  71
+05:31:02  |  Platform  |  Info  |  * Initialise: DataManager  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreDataManager.cpp  |  27
+05:31:02  |  Platform  |  Info  |  DataManager successfully initialized  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreDataManager.cpp  |  35
+05:31:02  |  Core  |  Info  |  * Initialise: Gui  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_Gui.cpp  |  61
+05:31:02  |  Core  |  Info  |  * MyGUI version 3.2.0.5305  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_Gui.cpp  |  68
+05:31:02  |  Core  |  Info  |  * Initialise: ResourceManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  32
+05:31:02  |  Core  |  Info  |  ResourceManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  40
+05:31:02  |  Core  |  Info  |  * Initialise: LayerManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  33
+05:31:02  |  Core  |  Info  |  LayerManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  41
+05:31:02  |  Core  |  Info  |  * Initialise: WidgetManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  53
+05:31:02  |  Core  |  Info  |  WidgetManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  84
+05:31:02  |  Core  |  Info  |  * Initialise: InputManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_InputManager.cpp  |  46
+05:31:02  |  Core  |  Info  |  InputManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_InputManager.cpp  |  66
+05:31:02  |  Core  |  Info  |  * Initialise: SubWidgetManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  36
+05:31:02  |  Core  |  Info  |  SubWidgetManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  56
+05:31:02  |  Core  |  Info  |  * Initialise: SkinManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  36
+05:31:02  |  Core  |  Info  |  SkinManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  46
+05:31:02  |  Core  |  Info  |  * Initialise: FontManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FontManager.cpp  |  32
+05:31:02  |  Core  |  Info  |  FontManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FontManager.cpp  |  42
+05:31:02  |  Core  |  Info  |  * Initialise: ControllerManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  32
+05:31:02  |  Core  |  Info  |  ControllerManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  40
+05:31:02  |  Core  |  Info  |  * Initialise: PointerManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  43
+05:31:02  |  Core  |  Info  |  PointerManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  62
+05:31:02  |  Core  |  Info  |  * Initialise: ClipboardManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  32
+05:31:02  |  Core  |  Info  |  ClipboardManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  39
+05:31:02  |  Core  |  Info  |  * Initialise: LayoutManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  28
+05:31:02  |  Core  |  Info  |  LayoutManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  35
+05:31:02  |  Core  |  Info  |  * Initialise: DynLibManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  26
+05:31:02  |  Core  |  Info  |  DynLibManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  30
+05:31:02  |  Core  |  Info  |  * Initialise: PluginManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  30
+05:31:02  |  Core  |  Info  |  PluginManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  34
+05:31:02  |  Core  |  Info  |  * Initialise: LanguageManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  30
+05:31:02  |  Core  |  Info  |  LanguageManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  34
+05:31:02  |  Core  |  Info  |  * Initialise: FactoryManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  25
+05:31:02  |  Core  |  Info  |  FactoryManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  27
+05:31:02  |  Core  |  Info  |  * Initialise: ToolTipManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  33
+05:31:02  |  Core  |  Info  |  ToolTipManager successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  45
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_Fonts.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'DejaVuSansFont.15' using texture size 128 x 128.  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  769
+05:31:02  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'DejaVuSansFont.15' using real height 17 pixels.  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  770
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_Images.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_CommonSkins.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_BlueWhiteTheme.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_BlueWhiteImages.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_BlueWhiteSkins.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_BlueWhiteTemplates.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_Pointers.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_Layers.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Load ini file 'MyGUI_Settings.xml'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+05:31:02  |  Core  |  Info  |  Gui successfully initialized  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_Gui.cpp  |  119
+05:33:30  |  Core  |  Info  |  * Shutdown: Gui  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_Gui.cpp  |  133
+05:33:30  |  Core  |  Info  |  * Shutdown: PointerManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  69
+05:33:30  |  Core  |  Info  |  PointerManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  86
+05:33:30  |  Core  |  Info  |  * Shutdown: InputManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_InputManager.cpp  |  73
+05:33:30  |  Core  |  Info  |  InputManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_InputManager.cpp  |  78
+05:33:30  |  Core  |  Info  |  * Shutdown: SkinManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  53
+05:33:30  |  Core  |  Info  |  SkinManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  60
+05:33:30  |  Core  |  Info  |  * Shutdown: SubWidgetManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  63
+05:33:30  |  Core  |  Info  |  SubWidgetManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  83
+05:33:30  |  Core  |  Info  |  * Shutdown: LayerManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  48
+05:33:30  |  Core  |  Info  |  destroy layer 'Wallpaper'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Back'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Overlapped'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Middle'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Modal'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Main'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Popup'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'FadeMiddle'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Info'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'ToolTip'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'DragAndDrop'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'FadeBusy'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Pointer'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Fade'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  destroy layer 'Statistic'  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  191
+05:33:30  |  Core  |  Info  |  LayerManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  59
+05:33:30  |  Core  |  Info  |  * Shutdown: FontManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FontManager.cpp  |  49
+05:33:30  |  Core  |  Info  |  FontManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FontManager.cpp  |  57
+05:33:30  |  Core  |  Info  |  * Shutdown: ControllerManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  47
+05:33:30  |  Core  |  Info  |  ControllerManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  56
+05:33:30  |  Core  |  Info  |  * Shutdown: ClipboardManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  46
+05:33:30  |  Core  |  Info  |  ClipboardManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  54
+05:33:30  |  Core  |  Info  |  * Shutdown: LayoutManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  42
+05:33:30  |  Core  |  Info  |  LayoutManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  49
+05:33:30  |  Core  |  Info  |  * Shutdown: PluginManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  41
+05:33:30  |  Core  |  Info  |  PluginManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  46
+05:33:30  |  Core  |  Info  |  * Shutdown: DynLibManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  37
+05:33:30  |  Core  |  Info  |  DynLibManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  44
+05:33:30  |  Core  |  Info  |  * Shutdown: LanguageManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  41
+05:33:30  |  Core  |  Info  |  LanguageManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  45
+05:33:30  |  Core  |  Info  |  * Shutdown: ResourceManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  47
+05:33:30  |  Core  |  Info  |  ResourceManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  57
+05:33:30  |  Core  |  Info  |  * Shutdown: FactoryManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  34
+05:33:30  |  Core  |  Info  |  FactoryManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  36
+05:33:30  |  Core  |  Info  |  * Shutdown: ToolTipManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  52
+05:33:30  |  Core  |  Info  |  ToolTipManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  57
+05:33:30  |  Core  |  Info  |  * Shutdown: WidgetManager  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  91
+05:33:30  |  Core  |  Info  |  WidgetManager successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  100
+05:33:30  |  Core  |  Info  |  Gui successfully shutdown  |  /home/andres/repo/my-gui/MyGUIEngine/src/MyGUI_Gui.cpp  |  179
+05:33:30  |  Platform  |  Info  |  * Shutdown: RenderManager  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreRenderManager.cpp  |  78
+05:33:30  |  Platform  |  Info  |  RenderManager successfully shutdown  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreRenderManager.cpp  |  86
+05:33:30  |  Platform  |  Info  |  * Shutdown: DataManager  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreDataManager.cpp  |  42
+05:33:30  |  Platform  |  Info  |  DataManager successfully shutdown  |  /home/andres/repo/my-gui/Platforms/Ogre/OgrePlatform/src/MyGUI_OgreDataManager.cpp  |  44

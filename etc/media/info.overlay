@@ -1,0 +1,57 @@
+OverlayInfo
+{
+	zorder 0
+	
+	container Panel(panelInfo)
+	{
+		metrics_mode relative
+		left 0.05
+		top 0.75
+		width 0#.3
+		height 0#.20
+		material panelInfoM
+		
+		element TextArea(tituloInfo)
+		{
+		    metrics_mode relative
+		    left 0.02
+		    top 0.02
+		    width 0.90
+		    height 0.2
+		    
+		    font_name ubuntu
+		    colour 0 0 0
+		    char_height 0.05
+		    #caption Info. general
+		}
+		
+		element TextArea(particulasInfo)
+		{
+		    metrics_mode relative
+		    left 0.02
+		    top 0.10
+		    width 0.90
+		    height 0.2
+		    
+		    font_name ubuntu
+		    colour 0 0 0
+		    char_height 0.03
+		    #caption particula: space
+		}
+		
+		element TextArea(fpsInfo)
+		{
+		    metrics_mode relative
+		    left 0.02
+		    top 0.14
+		    width 0.90
+		    height 0.2
+		    
+		    font_name ubuntu
+		    colour 0 0 0
+		    char_height 0.03
+		    #caption FPS: 
+		}
+
+	}
+}
